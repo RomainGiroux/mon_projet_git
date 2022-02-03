@@ -2,3 +2,5 @@ Bonjour
 
 David: Salut Romain. 
 
+on va a crée une conflict, Celui qui a la ligne la plus longue gagne.
+ok 
